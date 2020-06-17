@@ -1,0 +1,18 @@
+.footer {
+      position: relative;
+      background: #ccc;
+      background-size: cover;
+      width: 100%;
+      margin-top: 60px;
+      .footer-text {
+          padding: 60px;
+          text-align: center;;
+          color: black;
+          z-index: 999;
+          font-weight: bold;
+      }
+      .contact {
+            margin-right: 10px;
+      }
+      
+  }
