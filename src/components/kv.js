@@ -10,8 +10,8 @@ function Kv () {
                 <Row>
                     <Col sm={12} className="mx-auto">
                         <div className={Style.siteHeading}>
-                            <h1>PlayGround Blog</h1>
-                            <span>created by Daiki</span>
+                            <h1>Blog</h1>
+                            <span>created by ___</span>
                         </div>
                     </Col>
                 </Row>

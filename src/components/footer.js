@@ -11,11 +11,13 @@ function Footer () {
             <Container>
                   <Row>
                         <Col>
-                              <p>
+                              <button className={Style.btnSquareRaised}onClick={() => {
+                                    alert("お問い合わせフォーム")
+                              }}>
                                     <FontAwesomeIcon icon={faPhoneSquareAlt} className={Style.contact} /> 
                                           お問い合わせ
-                              </p>
-                              <p>©︎Furukawa Daiki</p>
+                              </button>
+                              <p className={Style.copyRight} > ©︎Furukawa Daiki</p>
                         </Col>
                   </Row>
             </Container>

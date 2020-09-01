@@ -14,5 +14,29 @@
       .contact {
             margin-right: 10px;
       }
+      .btn-square-raised {
+        display: inline-block;
+        padding: 0.5em 1em;
+        text-decoration: none;
+        background:  yellow;/*ボタン色*/
+        color: black;/*ボタン色と同じに*/
+       border-color: yellow;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+        border-bottom: solid 3px #c7b61e;
+        border-radius: 3px;/*角の丸み*/
+        font-weight: bold;
+        text-shadow: -1px -1px rgba(255, 255, 255, 0.44), 1px 1px rgba(255, 255, 255, 0.44);
+      }
+        
+      .btn-square-raised:active {
+        /*ボタンを押したとき*/
+        -webkit-transform: translateY(4px);
+        transform: translateY(4px);
+        box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.2);
+        border-bottom: none;
+      }
+      .copy-right {
+          margin-top: 10px;
+      }
       
   }
