@@ -10,8 +10,7 @@ function Kv () {
                 <Row>
                     <Col sm={12} className="mx-auto">
                         <div className={Style.siteHeading}>
-                            <h1>Blog</h1>
-                            <span>created by ___</span>
+                            <h1>エアマット販売・レンタル</h1>
                         </div>
                     </Col>
                 </Row>

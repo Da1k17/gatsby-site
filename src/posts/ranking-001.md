@@ -1,7 +1,7 @@
 ---
-title: "ブログ　001"
+title: "ブログ 001"
 date: "2020-06-01"
-thumbnail: "../images/image_001.jpg"
+thumbnail: "../images/airmat-1.5*3.jpg"
 ---
 
 Gatsby ブログ作成チュートリアル001
